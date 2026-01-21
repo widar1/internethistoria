@@ -1,16 +1,16 @@
 body {
-  background-color: black;
-}
-
+    background: #c0c0c0;
+    color: #000;
+    font-family: 'Times New Roman', serif;
+  }
 h1 {
-  color: white;
+    color: #0000ff;
+    text-decoration: underline;
   text-align: center;
 }
-p {
-  color: white;
-  text-align: center;
-}
-h2 {
-  color: white;
+.article {
+  background: #fff;
+  border: 3px groove #808080;
+  box-shadow: 5px 5px #000;
   text-align: center;
 }
